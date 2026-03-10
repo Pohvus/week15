@@ -5,12 +5,15 @@
     "role": "Robootika tudeng",
     "email": "mathias.simm@mail.ee",
     "phone": "+372 55588836",
-    "about": "Olen usin ja töökas tudeng Tallinna Tehnikakõrgkoolis. Valisin robootika eriala, kuna see on minu suur kirg ja soovin tulevikus selles valdkonnas kaugele jõuda.",
-    "tasks": [
-        "Aitan hooldada olemasolevaid droone",
-        "Osalen uute masinate disainimises",
-        "Annan panuse tiimitöösse"
-    ],
+    "about": "Olen Tallinna Tehnikakõrgkooli robootikaüliõpilane ja praktik, kes ühendab akadeemilised teadmised igapäevase tööga Milrem Roboticsis. Minu fookus on autonoomsete süsteemide hooldusel ja arendusel ning ma naudin keeruliste tehniliste probleemide lahendamist, et muuta tehnoloogia töökindlamaks.",
+    "experience": {
+        "title": "Milrem Robotics | 2025 - tänapäev",
+        "tasks": [
+            "Aitan hooldada olemasolevaid droone",
+            "Osalen uute masinate disainimises",
+            "Annan panuse tiimitöösse"
+        ]
+    },
     "education": [
         "Tallinna Arte Gümnaasium | 2011-2023",
         "Tallinna Tehnikakõrgkool | 2024-tänapäev"

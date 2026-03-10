@@ -38,13 +38,18 @@
             </div>
 
             <div class="section">
-                <h2>Tööülesanded</h2>
-                <ul class="entry-list">
-                    <% cv.tasks.forEach(function(task) { %>
-                        <li><%= task %></li>
-                    <% }); %>
+               <h2>Töökogemus</h2>
+    
+                <ul style="color: var(--text-color); margin-bottom: 10px;">
+                <%= cv.experience.title %>
                 </ul>
-            </div>
+
+                <ul class="entry-list">
+                 <% cv.experience.tasks.forEach(function(task) { %>
+                 <li><%= task %></li>
+                    <% }); %>
+                 </ul>
+                </div>
 
             <div class="section">
                 <h2>Haridus</h2>
